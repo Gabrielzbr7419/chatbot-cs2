@@ -1,0 +1,305 @@
+cliente: Como melhorar minha mira no CS2?
+chatbot: Mantenha a mira sempre na altura da cabeça.
+
+cliente: Como jogar melhor em equipe no CS2?
+chatbot: Troque kills com seus companheiros.
+
+cliente: Como melhorar minha movimentação no CS2?
+chatbot: Use counter-strafe para parar rapidamente antes de atirar.
+
+cliente: Como subir de patente no CS2?
+chatbot: Comunique sempre a posição dos inimigos para seu time.
+
+cliente: Como treinar spray no CS2?
+chatbot: Pratique o padrão de recuo das armas em mapas de treinamento.
+
+cliente: Como melhorar meu posicionamento no CS2?
+chatbot: Use coberturas sempre que possível.
+
+cliente: Como usar granadas melhor no CS2?
+chatbot: Aprenda smokes básicas dos mapas que você joga.
+
+cliente: Como melhorar no clutch no CS2?
+chatbot: Tente enfrentar os inimigos um por um.
+
+cliente: Como melhorar meu crosshair placement no CS2?
+chatbot: Deixe a mira sempre alinhada com a altura da cabeça.
+
+cliente: Como ganhar mais rounds no CS2?
+chatbot: Jogue junto com seu time e evite avançar sozinho.
+
+cliente: Como jogar melhor de AK-47 no CS2?
+chatbot: Priorize headshots e controle rajadas curtas.
+
+cliente: Como jogar melhor de M4 no CS2?
+chatbot: Segure ângulos e atire em rajadas curtas.
+
+cliente: Como melhorar minha AWP no CS2?
+chatbot: Segure ângulos comuns e não fique muito exposto.
+
+cliente: Como defender melhor um bombsite?
+chatbot: Use flashes e molotovs para atrasar o avanço inimigo.
+
+cliente: Como entrar melhor em bombsite?
+chatbot: Use flashes antes de avançar com seu time.
+
+cliente: Como melhorar minha economia no CS2?
+chatbot: Compre junto com o time e evite compras sozinho.
+
+cliente: Como treinar todos os dias no CS2?
+chatbot: Comece com aim training e depois jogue deathmatch.
+
+cliente: Como melhorar minha reação no CS2?
+chatbot: Pratique deathmatch com frequência.
+
+cliente: Como abrir ângulos no CS2?
+chatbot: Abra ângulos lentamente usando strafes.
+
+cliente: Como melhorar minha consistência no CS2?
+chatbot: Mantenha rotina de treino e jogue com foco.
+
+cliente: Como jogar melhor Mirage no CS2?
+chatbot: Aprenda smokes de A e B para ajudar seu time.
+
+cliente: Como jogar melhor Dust2 no CS2?
+chatbot: Controle o meio e use flashes no Long.
+
+cliente: Como melhorar meu jogo no Inferno?
+chatbot: Use utilitários para controlar Banana.
+
+cliente: Como jogar melhor Nuke?
+chatbot: Controle o outside com smokes e comunicação.
+
+cliente: Como melhorar minha leitura de jogo?
+chatbot: Observe padrões de movimentação do time inimigo.
+
+cliente: Como evitar morrer rápido no CS2?
+chatbot: Não avance sozinho sem informação.
+
+cliente: Como melhorar meus duelos?
+chatbot: Mantenha calma e mire sempre na cabeça.
+
+cliente: Como usar molotov melhor?
+chatbot: Use molotov para limpar posições comuns.
+
+cliente: Como usar flash melhor?
+chatbot: Avise seu time antes de jogar a flash.
+
+cliente: Como usar HE melhor?
+chatbot: Use HE quando souber que inimigos estão agrupados.
+
+cliente: Como melhorar minha movimentação lateral?
+chatbot: Use strafes curtos para dificultar ser acertado.
+
+cliente: Como melhorar minha precisão?
+chatbot: Pare completamente antes de atirar.
+
+cliente: Como treinar reflexo no CS2?
+chatbot: Jogue deathmatch ou mapas de aim.
+
+cliente: Como melhorar meu controle da AK?
+chatbot: Pratique o padrão de spray no recoil trainer.
+
+cliente: Como melhorar meu controle da M4?
+chatbot: Use rajadas curtas em média distância.
+
+cliente: Como melhorar em clutch 1v2?
+chatbot: Separe os inimigos e lute um por vez.
+
+cliente: Como melhorar em clutch 1v3?
+chatbot: Use utilitários e reposicione após cada kill.
+
+cliente: Como melhorar minha comunicação?
+chatbot: Diga sempre posição e quantidade de inimigos.
+
+cliente: Como ajudar mais meu time?
+chatbot: Jogue utilitários para facilitar as entradas.
+
+cliente: Como jogar mais seguro?
+chatbot: Evite correr riscos desnecessários.
+
+cliente: Como melhorar minha leitura de ângulos?
+chatbot: Aprenda as posições comuns de cada mapa.
+
+cliente: Como treinar sem jogar competitiva?
+chatbot: Use deathmatch e mapas de treino.
+
+cliente: Como melhorar meu foco?
+chatbot: Jogue descansado e evite distrações.
+
+cliente: Como melhorar minha disciplina no jogo?
+chatbot: Siga estratégias do time.
+
+cliente: Como melhorar minha tomada de decisão?
+chatbot: Analise o radar e as informações do time.
+
+cliente: Como melhorar minha movimentação com AWP?
+chatbot: Atire e reposicione rapidamente.
+
+cliente: Como melhorar retake de bombsite?
+chatbot: Espere seu time e entre junto.
+
+cliente: Como melhorar defesa em bombsite B?
+chatbot: Use utilitários para atrasar o rush.
+
+cliente: Como melhorar ataque em bombsite A?
+chatbot: Use flashes e smokes antes de entrar.
+
+cliente: Como melhorar meu jogo geral no CS2?
+chatbot: Combine treino de mira, posicionamento e comunicação.
+
+cliente: Como melhorar minha precisão de tiro no CS2?
+chatbot: Pare completamente antes de atirar para aumentar a precisão.
+
+cliente: Como melhorar minha defesa no CS2?
+chatbot: Escolha posições com cobertura e não fique exposto.
+
+cliente: Como jogar melhor rounds eco no CS2?
+chatbot: Tente jogar junto com seu time e focar em pegar armas inimigas.
+
+cliente: Como melhorar minha mira em longas distâncias?
+chatbot: Use rajadas curtas e controle o recuo da arma.
+
+cliente: Como melhorar minha movimentação durante duelos?
+chatbot: Use strafes curtos para dificultar que o inimigo acerte você.
+
+cliente: Como melhorar meu desempenho em partidas competitivas?
+chatbot: Jogue com calma e mantenha comunicação constante com o time.
+
+cliente: Como melhorar minha consistência de headshots?
+chatbot: Treine manter a mira sempre na altura da cabeça.
+
+cliente: Como jogar melhor com pistolas no CS2?
+chatbot: Mire na cabeça e evite spam de tiros.
+
+cliente: Como melhorar minha performance em retakes?
+chatbot: Espere seu time e use utilitários antes de entrar.
+
+cliente: Como melhorar meu controle de mapa?
+chatbot: Observe o radar e compartilhe informações com seu time.
+
+cliente: Como evitar morrer no começo do round?
+chatbot: Não avance sozinho sem informação do inimigo.
+
+cliente: Como melhorar minha defesa em bombsites?
+chatbot: Use molotovs e smokes para atrasar os inimigos.
+
+cliente: Como melhorar meu ataque em bombsites?
+chatbot: Entre junto com o time usando flashes.
+
+cliente: Como melhorar minha leitura do jogo?
+chatbot: Preste atenção nos padrões do time inimigo.
+
+cliente: Como melhorar minha mira com rifles?
+chatbot: Use rajadas curtas em vez de spray longo.
+
+cliente: Como jogar melhor em mapas desconhecidos?
+chatbot: Aprenda primeiro as posições comuns dos inimigos.
+
+cliente: Como melhorar meu posicionamento em clutch?
+chatbot: Reposicione depois de cada eliminação.
+
+cliente: Como melhorar meu uso de utilitários?
+chatbot: Aprenda lineups de smokes e flashes.
+
+cliente: Como melhorar meu tempo de reação?
+chatbot: Pratique deathmatch regularmente.
+
+cliente: Como melhorar minha comunicação no CS2?
+chatbot: Diga sempre onde viu os inimigos.
+
+cliente: Como melhorar minha economia?
+chatbot: Compre apenas quando seu time também puder comprar.
+
+cliente: Como melhorar meu jogo com AWP?
+chatbot: Segure ângulos e reposicione após cada tiro.
+
+cliente: Como melhorar meu jogo em rounds decisivos?
+chatbot: Jogue com calma e não tome decisões precipitadas.
+
+cliente: Como melhorar minha leitura de radar?
+chatbot: Olhe o radar com frequência durante o round.
+
+cliente: Como melhorar meu desempenho em duelos?
+chatbot: Tente pegar o inimigo desprevenido em bons ângulos.
+
+cliente: Como melhorar meu controle de spray?
+chatbot: Treine o padrão de recuo em mapas específicos.
+
+cliente: Como melhorar minha movimentação ao abrir ângulos?
+chatbot: Abra ângulos lentamente usando strafes.
+
+cliente: Como melhorar minha sobrevivência no round?
+chatbot: Não se exponha sem necessidade.
+
+cliente: Como melhorar minha entrada em bombsite?
+chatbot: Use flashes para cegar os defensores.
+
+cliente: Como melhorar meu suporte ao time?
+chatbot: Jogue utilitários para ajudar seus companheiros.
+
+cliente: Como melhorar minha disciplina no jogo?
+chatbot: Siga a estratégia definida pelo time.
+
+cliente: Como melhorar meu controle emocional no CS2?
+chatbot: Mantenha calma mesmo após erros.
+
+cliente: Como melhorar meu desempenho geral?
+chatbot: Combine treino de mira com partidas reais.
+
+cliente: Como melhorar minha mira em movimento?
+chatbot: Pare rapidamente antes de atirar.
+
+cliente: Como melhorar minha consistência em partidas?
+chatbot: Mantenha rotina de treino diária.
+
+cliente: Como melhorar minha leitura de posicionamento inimigo?
+chatbot: Observe onde eles costumam jogar nos rounds anteriores.
+
+cliente: Como melhorar minha tomada de decisão?
+chatbot: Use as informações do time para decidir.
+
+cliente: Como melhorar meu suporte em ataque?
+chatbot: Lance utilitários antes da entrada.
+
+cliente: Como melhorar minha defesa contra rush?
+chatbot: Use molotovs e smokes para atrasar o avanço.
+
+cliente: Como melhorar minha movimentação com rifle?
+chatbot: Use strafes curtos entre tiros.
+
+cliente: Como melhorar minha mira em close range?
+chatbot: Mire rapidamente na cabeça.
+
+cliente: Como melhorar meu jogo em rounds eco inimigos?
+chatbot: Evite duelos desnecessários e jogue com cautela.
+
+cliente: Como melhorar minha movimentação no mapa?
+chatbot: Use caminhos seguros e evite áreas abertas.
+
+cliente: Como melhorar meu posicionamento defensivo?
+chatbot: Fique em locais onde possa recuar facilmente.
+
+cliente: Como melhorar meu ataque coordenado?
+chatbot: Espere todos do time antes de avançar.
+
+cliente: Como melhorar minha leitura de estratégia inimiga?
+chatbot: Observe onde eles colocam mais jogadores.
+
+cliente: Como melhorar meu suporte com utilitários?
+chatbot: Use flashes para ajudar companheiros em duelos.
+
+cliente: Como melhorar minha eficiência em rounds?
+chatbot: Evite morrer sem causar impacto no round.
+
+cliente: Como melhorar minha performance em longos jogos?
+chatbot: Mantenha concentração e comunicação.
+
+cliente: Como melhorar meu controle de recoil?
+chatbot: Puxe a mira no sentido contrário ao recuo.
+
+cliente: Como melhorar minha visão de jogo?
+chatbot: Analise o radar e escute passos.
+
+cliente: Como melhorar meu posicionamento em ataque?
+chatbot: Fique em locais onde possa trocar kills com o time.
